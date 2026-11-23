@@ -5,8 +5,6 @@
 **Atlantic Technological University (ATU), Galway**
 
 **Student:** Michaelangelo Ojeani
-**Supervisor:** Darragh Matthews
-**Academic Year:** 2026–2027
 
 ## Project Overview
 
